@@ -1,4 +1,4 @@
-*{box-sizing:border-box}
+@media(min-width: 550px)[]*{box-sizing:border-box}
 body{background-color:black}
 .container {background-color:lightgray;max-width:900px;margin:0 auto}
 .container{padding: 20px;overflow:auto;}
@@ -9,4 +9,4 @@ h1{font-size:35px}
 .author-title{font-style:italic}
 .right-column {font-size:15px;width:75%;}
 .caption{font-size:10px;color:darkgrey;padding-top:10px;}
-img{max-width:100%}
+img{max-width:100%}]
