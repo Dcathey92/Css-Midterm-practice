@@ -3,3 +3,4 @@ body{background-color:black}
 .container {background-color:lightgray}
 .left-column p{margin:10px auto 10px auto}
 .left-column a{font-weight:bold;font-size:17px}
+.author-title{font-style:italic} 
