@@ -4,4 +4,5 @@ body{background-color:black}
 .left-column p{margin:10px auto 10px auto}
 .left-column a{font-weight:bold;font-size:17px}
 .author-title{font-style:italic}
-.right-column p{font-size:15px} 
+.right-column p{font-size:15px}
+.caption{font-size:10px;font-color:darkgrey;}
