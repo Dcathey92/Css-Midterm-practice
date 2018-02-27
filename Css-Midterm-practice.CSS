@@ -1,6 +1,7 @@
 *{box-sizing:border-box}
 body{background-color:black}
 .container {background-color:lightgray}
+h1{font-size:35px}
 .left-column p{margin:10px auto 10px auto}
 .left-column a{font-weight:bold;font-size:17px}
 .author-title{font-style:italic}
