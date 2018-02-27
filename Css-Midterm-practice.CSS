@@ -1,3 +1,4 @@
 *{box-sizing:border-box}
 body{background-color:black}
 .container {background-color:lightgray}
+.left-column p{margin:10px auto 10px auto}
