@@ -1,6 +1,6 @@
 *{box-sizing:border-box}
-body{background-color:black}
-.container {background-color:lightgray;max-width:900px;margin:0 auto}
+body{background-color:lightgray} /* 1 changed background to light grey*/
+.container {background-color:#F0FFFF;max-width:900px;margin:0 auto;border:5px solid darkgrey;}/*chnaged container color to light blue*/
 .container{padding: 20px;overflow:auto;}
 h1{font-size:35px}
 @media  (min-width:500px){
