@@ -10,9 +10,10 @@ h1{font-size:35px;font-weight: bolder;border-bottom:3px solid lightgrey;text-sha
 .right-column{width:75%;margin-top:0;margin-left:0;overflow:auto}
 }
 .right-column {font-size:15px;border-left: 5px solid darkgrey}/*5 added border between the two columns*/
-.left-column a{font-weight:bold;font-size:17px;}
-.author-title{font-style:italic}
-.caption{font-size:10px;color:darkgrey;padding-top:10px;font-style:italic}/*7 changed caption font-style to italic*/
+.left-column a{font-weight:bold;font-size:17px;font-family:arial}/*14 changed font family to arial*/
+.author-title{font-style:italic;text-decoration:underline;}/*11 added underline to author title*/
+.caption{font-size:10px;color:#6c7b8b;padding-top:10px;font-style:italic}/*7 changed caption font-style to italic 13 changed caption color to darkgrey*/
 img{max-width:100%}
 .caption{border-bottom:3px dotted lightgrey}/*8 added dotted border to photo captions*/
-.right-column {box-shadow: 5px 10px darkgrey;background-color:#fffafa}/*9 added a box shadow to article container*/
+.right-column {box-shadow: 5px 10px darkgrey;background-color:#eee9e9}/*9 added a box shadow to article container 10 added a background color to right-column*/
+.right-column{font-family:arial;}/*12 changed font family to arial*/
