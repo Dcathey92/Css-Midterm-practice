@@ -9,8 +9,8 @@ h1{font-size:35px}
 .left-column p{margin:10px auto 10px auto;float:left;overflow:auto}
 .right-column{width:75%;margin-top:0;margin-left:0;overflow:auto}
 }
-.right-column {font-size:15px;}
-.left-column a{font-weight:bold;font-size:17px}
+.right-column {font-size:15px;border-left: 5px solid darkgrey}
+.left-column a{font-weight:bold;font-size:17px;}
 .author-title{font-style:italic}
 .caption{font-size:10px;color:darkgrey;padding-top:10px;}
 img{max-width:100%}]
